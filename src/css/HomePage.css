@@ -1,0 +1,34 @@
+.home-page {
+    font-family: 'Arial', sans-serif;
+  }
+  
+  /* Enhanced Hero Section Styles */
+  .hero-section .carousel-item {
+    height: 75vh;
+    background-size: cover;
+    background-position: center;
+  }
+  
+  /* Services Section Styles */
+  .services-section {
+    padding: 60px 0;
+    /* Styles for Service Cards */
+  }
+  
+  /* About Section Styles */
+  .about-section {
+    padding: 60px 0;
+    /* Styles for Interactive Elements */
+  }
+  
+  /* Contact Section Styles */
+  .contact-section {
+    padding: 60px 0;
+    /* SEO Friendly Styling */
+  }
+  
+  /* Responsive Styling */
+  @media (max-width: 768px) {
+    /* Adjustments for Mobile View */
+  }
+  

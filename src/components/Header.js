@@ -1,12 +1,12 @@
 import React from 'react';
 import Navigation from './Navigation';
+import logo from '../images/logo.jpg';
+import '../css/Header.css'; 
 
 const Header = () => {
     return (
         <header className="header">
-            <div className="logo">
-                Menadive
-            </div>
+            <img src={logo} alt="Menadive Divecenter Logo" className="logo" />
             <Navigation />
         </header>
     );
