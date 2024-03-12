@@ -1,0 +1,286 @@
+[{
+  "_id": {
+    "$oid": "65afd28b259bb699a6bfefe1"
+  },
+  "name": "Ras Abu Soma Garden",
+  "location": "Ras Abu Soma",
+  "depth": "20m",
+  "difficulty": "Beginner",
+  "description": "Südlich von Ras Abu Soma erstreckt sich dieser sehr abwechslungsreiche Korallengarten, der für überraschende Begegnungen bekannt ist. Häufig werden Schildkröten, Milchfische und Barakudas gesichtet, ob flach oder tief für jeden ist was dabei.",
+  "image": "String"
+},
+{
+  "_id": {
+    "$oid": "65afd3cd259bb699a6bfefe5"
+  },
+  "name": "Ras Abu Soma",
+  "location": "Landzunge der Somabay",
+  "depth": "25m",
+  "difficulty": "Intermediate",
+  "description": "Die Landzunge der Somabay bildet das nördliche Ende der Bucht von Safaga. Der „Ras“ (Kopf), ist eine Steilwand, die im Süden in einem 25 m tiefen Plateau endet, Hauptströmungsrichtung ist aus Norden kommend. Am Plateau finden Sie bis zu 4 m große, uralte Tischkorallen. Der Tauchplatz besticht durch ausgezeichnete Sicht und die Nähe zu einem Drop off. Dadurch ist die Chance auf Großfisch gegeben, so sind Begegnungen mit grauen Riffhaien, Weißspitzenriffhaien, Geigenrochen, Stachelrochen, Adlerrochen, und Hammerhaien möglich.",
+  "image": "String"
+},
+{
+  "_id": {
+    "$oid": "65afd40a259bb699a6bfefe6"
+  },
+  "name": "Tobia Arba",
+  "location": "Ras Abu Soma",
+  "depth": "15m",
+  "difficulty": "Beginner",
+  "description": "Eine Gruppe von Korallentürmen, 7 an der Zahl, auch bekannt unter den Namen „die sieben Türme“. Aus einer Tiefevon 15m reichen sie bis zur Oberfläche. Durch den Schutz von Ras Abu Soma sind Strömungen sehr selten und auch nur sehr leicht. Dieser Platz ist wie für Photografen geschaffen, Wolken aus Haremsfahnenbarschen und Beilbauchfischen bevölkern die mit Weichkorallen behangenen Überhänge der Türme, ein klassisches Bild des Roten Meeres. Rotfeuerfische findet man im Dutzend, aber auch Napoleons, Barrakudas, Schildkröten und vieles mehr.",
+  "image": "String"
+},
+{
+  "_id": {
+    "$oid": "65afd41c259bb699a6bfefe7"
+  },
+  "name": "Tobia Hamra",
+  "location": "Tobia Hamra",
+  "depth": "10m",
+  "difficulty": "Beginner",
+  "description": "Langgezogenes Riff, nur 40 min mit dem Schiff von MenaDive entfernt, zieht es sich von Norden nach Süden. Beginnend an der Oberfläche fällt es bis zu einem Kamm auf 10m ab und geht in einen Korallengarten über der in einer Tiefe von ca. 30m im Sand ausläuft. Der Korallengarten, aufgelockert durch mehrere Sandflächen, bietet sehr abwechslungsreiche Tauchgänge. Wenig Strömung und viele Schulen verschiedener Fische, genauso wie sehr oft gesichtete Stein und Skorpionsfische, sind das Markenzeichen dieses Platzes.",
+  "image": "String"
+},
+{
+  "_id": {
+    "$oid": "65afd433259bb699a6bfefe8"
+  },
+  "name": "Tobia Kebir",
+  "location": "Tobia Kebir",
+  "depth": "18m",
+  "difficulty": "Beginner",
+  "description": "Ein großes Riff das nur 35 Minuten von MenaDive entfernt liegt. Nach Süden angeschlossen befinden sich mehrere einzelne Korallenblöcke die zu Tobia Soraya führen. In Richtung Osten erreichen wir die Außenseite durch einen breiten Kanal, in dem es schon mal ein wenig Strömung haben kann. Das Riff fällt auf 18m Tiefe ab und auf Grund der leichten Strömung ist es sehr farbenfroh. Hier erwarten uns alle Arten von Riff-Fischen auch ein beliebter Platz für Schwärme von Jungfischen – ab und zu kommen auch Delphine und Mantas vorbei.",
+  "image": "String"
+},
+{
+  "_id": {
+    "$oid": "65afd446259bb699a6bfefe9"
+  },
+  "name": "Sandy Island",
+  "location": "Sandy Island",
+  "depth": "10m",
+  "difficulty": "Beginner",
+  "description": "Von MenaDive aus, in nur 30 min erreichen wir Sandy Island. Direkt unter dem Boot finden wir eine Sandfläche in 6-10m Tiefe. Dem Riff folgend geht es Richtung Norden. Die mal mehr mal weniger abfallende Steilwand endet in 25m in einem Sandgrund. Alle Arten von Hartkorallen sind vertreten, Tischkorallen, Feuerkorallen, Hirnkorallen usw.. Flötenfische, Papageienfische und Doktorfische tummeln sich hier, auch Schildkröten und Delphine wurden schon gesehen. Auch ist es ein Idealer Platz für alle Arten der “Tarnkünstler”. Die Südblöcke in ihrer einzigartigen Farbenbracht sind hervorragend zum Austauchen.",
+  "image": "String"
+},
+{
+  "_id": {
+    "$oid": "65afd45e259bb699a6bfefea"
+  },
+  "name": "Tobia Soraya",
+  "location": "Landzunge der Somabay",
+  "depth": "15m",
+  "difficulty": "Beginner",
+  "description": "Besteht aus 7 mittelgroßen, länglichen Korallenblöcken, die in 40 min von MenaDive aus erreicht werden. Grundsätzlich bieten sich zwei Tauchgänge an diesem Tauchplatz an. Von der Südspitze aus tauchen wir in Richtung Norden drei Korallenblöcke ab oder wir tauchen „one way“ von Tobia Kebir nach Tobis Soraya. Die Blöcke stehen auf einem ca. 15m tiefen Sandgrund und bilden eine traumhafte Kulisse für die vielfältige Fauna und Flora.",
+  "image": "String"
+},
+{
+  "_id": {
+    "$oid": "65afd472259bb699a6bfefeb"
+  },
+  "name": "Gamul Soraya",
+  "location": "Gamul Soraya",
+  "depth": "17m",
+  "difficulty": "Beginner",
+  "description": "Ein mittelgroßer runder Korallenblock der in 40 min von MenaDive aus zu erreichen ist. Die Tiefen um den Block liegen bei 12-18m, im Südosten wird Gamul Soraya von mehreren kleinen Korallenblöcken gesäumt, die nicht bis zur Oberfläche reichen. Schulen von Brassen, Fledermausfischen, Süßlippen, Wimpelfischen, Füsilieren, Rote und Schwarze Schnapper bewohnen diese Riff-Formationen, auch ein Feld von Sandaalen ist hier zu finden.",
+  "image": "String"
+},
+{
+  "_id": {
+    "$oid": "65afd484259bb699a6bfefec"
+  },
+  "name": "Gamul Kebir",
+  "location": "Gamul Kebir",
+  "depth": "15m",
+  "difficulty": "Beginner",
+  "description": "Ein großes, rundes Riff mit einer kleinen Lagune in der Mitte, im Norden mehrere Korallenblöcke und im Süden 1 kleines lang gezogenes Riff, wird in 30 min von MenaDive aus erreicht. Vom Liegeplatz aus wird in Richtung Osten, durch einen schmalen Kanal, an die Außenseite getaucht. In max. 15m Tiefe geht es in Richtung Norden den Blöcken entgegen. Auf dem Weg dahin werden uns Schwärme von Jungfischen begleiten aber auch Meeresbewohner, die sich gerne am Boden aufhalten, sind zahlreich vorhanden.",
+  "image": "String"
+},
+{
+  "_id": {
+    "$oid": "65afd490259bb699a6bfefed"
+  },
+  "name": "Panorama Reef",
+  "location": "Panorama Reef",
+  "depth": "25m",
+  "difficulty": "Beginner",
+  "description": "Mit Sicherheit das bekannteste Riff in Safaga. In etwa 60 min haben wir das Riff von MenaDive aus erreicht. Ein sehr großes Riff das rundherum steil abfällt, wobei es im Süden und Norden jeweils ein Plateau hat. Da es im offenen Meer liegt, bleibt Strömung nicht aus und eine gute Chance auf Großfisch auch nicht. Hier lebt die seit Jahren heimische Schildkröte, die auf Grund ihrer Panzerform Quasimodo genannt wird.",
+  "image": "String"
+},
+{
+  "_id": {
+    "$oid": "65afd49c259bb699a6bfefee"
+  },
+  "name": "Panorama Nord",
+  "location": "Panorama Reef",
+  "depth": "25m",
+  "difficulty": "Beginner",
+  "description": "Dies ist mit Sicherheit die schönste Seite des Panorama Riffs. Der östliche Bereich des Nordplateus wird durch sehr schöne Bergkorallen bewuchert, die stufenweise in die Tiefe abfallen. Tausende von Fahnenbarsche schwimmen in der Strömung, die schon mal sehr stark sein kann. Hier zeigt sich das Rote Meer von seiner besten Seite, die buntesten Farben, die schönsten Korallen und sehr viel Fisch. Oft kann man hier auch Haie sichten. Im westlichen Teil des Plateaus wachsen sehr große Tischkorallen unter die man auch mal einen Blick werfen sollte.",
+  "image": "String"
+},
+{
+  "_id": {
+    "$oid": "65afd4ad259bb699a6bfefef"
+  },
+  "name": "Panorama Süd",
+  "location": "Panorama Reef",
+  "depth": "30m",
+  "difficulty": "Intermediate",
+  "description": "Das Südplateau beginnt auf 18m und fällt ganz langsam auf etwas über 30m ab. Hier wachsen an der östlichen Seite über dem Kamin in 30m riesige Gorgonien, in denen sich Langnasenbüchelbarsche eingenistet haben. Wenn die Strömung es zulässt sollte man hier auf jeden Fall weiter auf die Ostseite tauchen, die durch regelmäßige und auch oft starke Strömung einen wunderschönen Bewuchs aufweist. Beim Austauchen sollte man nicht vergessen einen Stopp am Anemonenfeld mit seiner großen Anzahl von Clown- und Preußenfischen einzulegen. Steinfische sieht man fast jedes Mal und auch einige Barakudas haben den Süden zu ihrem Revier erklärt.",
+  "image": "String"
+},
+{
+  "_id": {
+    "$oid": "65afd4f6259bb699a6bfeff0"
+  },
+  "name": "Middle Reef",
+  "location": "Middle Reef",
+  "depth": "25m",
+  "difficulty": "Intermediate",
+  "description": "Bildet die Mitte zwischen Panorama und Abu Kafan und ist in 80 min von MenaDive zu erreichen. Dieses sehr große runde Riff besticht durch seine Vielseitigkeit. Im Norden ein unberührtes Plateau das in 12m beginnt und in 30m an einer Kante ins Blaue endet. Im Südwesten bietet ein Korallengarten aufgelockert mit Sandflächen sehr viel Abwechslung. Im Süden steht ein einzelner Korallenturm direkt an der Kante zu einer sehr schön bewachsenen Korallenwand, die bis zu 70m tief abfällt. Zu guter letzt – der Südosten – ein Korallengarten der seines gleichen Sucht, labyrinthartig in weiterer Folge in Korallenwällen übergehend, bedeckt er ein riesiges Areal. Das alles in moderaten Tiefen von 5 bis 20m.",
+  "image": "String"
+},
+{
+  "_id": {
+    "$oid": "65afd50f259bb699a6bfeff1"
+  },
+  "name": "Shaab Quais",
+  "location": "Shaab Quais",
+  "depth": "25m",
+  "difficulty": "Intermediate",
+  "description": "Zwei Korallenblöcke, die zusammen einem Kamelrücken ähneln, stehen in Nord Südrichtung direkt an einer Kante von zwei Plateaus, im Westen mit 16m und im Osten mit 25m Tiefe. Durch seine exponierte Lage ist die Strömung in neun von zehn Fällen zu stark zum Tauchen, sollte man aber das Glück haben, hier einen Tauchgang machen zu können, wird man wohl eines der farbenfrohsten und lebendigsten Riffe sehen, die es im Roten Meer gibt. Das Riff besticht durch seine Weich- und Fächerkorallen, Zackenbarsche, Schildkröten, Meerbarben und Süßlippen.",
+  "image": "String"
+},
+{
+  "_id": {
+    "$oid": "65afd6b1259bb699a6bfeff4"
+  },
+  "name": "Shaab Sheer Ost",
+  "location": "Shaab Sheer",
+  "depth": "20m",
+  "difficulty": "Intermediate",
+  "description": "In 80 min erreichen wir von MenaDive aus das über 1km lange Riff. Östlich vom Hauptriff stehen 2 große Blöcke, die mit dem Hauptriff einen breiten Kanal bilden. Hierdurch erreichen wir den wunderschönen Korallengarten. Hier kann man verweilen oder weiter an die Aussenseite tauchen. Auch gibt es die Möglichkeit ein Wrack zu besuchen, die Al Kahfan, ein 115m langes, mehrmals umgebautes Schiff, das auf dem Weg in den Sudan, schon vor Hurghada in Flammen aufging, um schließlich ihre letzte Ruhestätte an Shaab Sheer Ost zu finden.",
+  "image": "String"
+},
+{
+  "_id": {
+    "$oid": "65afd6cd259bb699a6bfeff5"
+  },
+  "name": "Shaab Sheer West",
+  "location": "Shaab Sheer",
+  "depth": "30m",
+  "difficulty": "Intermediate",
+  "description": "Ziel des Tauchgangs ist auch hier der nördliche Bereich. Hier findet man einen riesigen Hartkorallengarten, der stufenweise in eine Tiefe bis 30 Meter abfällt. Der Weg hierher führt durch einen schmalen Kanal, der aus dem Hauptriff und einem großen Korallenhügel gebildet wird, vorbei an einer großen Bergkoralle in Form eines Pilzes. Die Strömung kann hier auch schon mal stärker sein. Westlich vom Ankerplatz  befindet sich eine kleine Lagune, die zum Austauchen wie im Aquarium einlädt.",
+  "image": "String"
+},
+{
+  "_id": {
+    "$oid": "65afd6fc259bb699a6bfeff6"
+  },
+  "name": "Abu Kafan",
+  "location": "Abu Kafan",
+  "depth": "40m",
+  "difficulty": "Intermediate",
+  "description": "Ein langes, schmales Riff ca. 90 min von MenaDive entfernt. Abu Kafan ist eine Steilwand, die senkrecht bis weit über die 100 Meter abfällt. Spektakuläre Steilwand Tauchgänge sind die Folge. Sowohl im Norden als auch im Süden gibt es ein Plateau. Abu Kafan ist im offenen Meer, Strömung und Großfisch sind hier häufig anzutreffen.",
+  "image": "String"
+},
+{
+  "_id": {
+    "$oid": "65afd717259bb699a6bfeff7"
+  },
+  "name": "Abu Kafan Nord",
+  "location": "Abu Kafan",
+  "depth": "40m",
+  "difficulty": "Intermediate",
+  "description": "Im Norden von Abu Kafan befindet sich ein großes Plateau mit vielen kleinen und einem sehr großen Block. Ob flach oder tief, hier kommt jeder auf seine Kosten.Auf Grund von oft sehr starker Strömung herrscht hier Leben pur, sogar eine Chance auf Großfisch ist  gegeben.Durch die wetterabhängige Lage ist es in der Regel nicht möglich am Plateau das Boot zu befestigen, so dass one-way- Tauchgänge hier die bessere Wahl sind.Hierbei taucht man vom Plateau auf die Westseite, auf der man ein weiteres, kleines Plateau mit riesigen Tischkorallen findet. Dieses wird im Flachbereich von einer großen, schön bewachsenen Schiffskette geschmückt.",
+  "image": "String"
+},
+{
+  "_id": {
+    "$oid": "65afd731259bb699a6bfeff8"
+  },
+  "name": "Abu Kafan Süd",
+  "location": "Abu Kafan",
+  "depth": "40m",
+  "difficulty": "Intermediate",
+  "description": "Auf der südlichen Seite schimmert ein sehr großes, langgezogenes Plateau in den schönsten Farben. Ein großer, fast bis an die Oberfläche reichender Block bildet mit dem Hauptriff einen Kanal. Oft sehr starke Strömung kann ein passieren in östliche Richtung unmöglich machen. Daher empfiehl es sich einen Strömungstauchgang zu machen. Entlang der traumhaft bewachsen Ostseite lässt man sich zum Südplateau treiben. Hier lassen Unmengen an Weichkorallen in allen Farben die Taucherherzen höher schlagen. Ob kleine Schnecke oder große Schildkröte, hier kann man alles sehen.",
+  "image": "String"
+},
+{
+  "_id": {
+    "$oid": "65afd747259bb699a6bfeff9"
+  },
+  "name": "Shaab Sheer Soraya",
+  "location": "Shaab Sheer",
+  "depth": "14m",
+  "difficulty": "Intermediate",
+  "description": "Ein rundes Riff im Süden Safaga`s etwa 90 min von Menadive aus entfernt. Tiefen um 14m und wenig Strömung machen diesen Platz zu einem idealen Spot für gemütliche Tauchgänge. Sehr schön ist hier vor allem der Flachbereich, der mit vielen kleinen Höhlen und Einbuchtungen versehen ist. Hier sind Igel- und auch Kugelfische immer anzutreffen. Auf dem Grund liegen unzählige Blaupunktrochen und auch freischwimmende Muränen  sieht man hier häufig",
+  "image": "String"
+},
+{
+  "_id": {
+    "$oid": "65afd75c259bb699a6bfeffa"
+  },
+  "name": "Shaab Claude",
+  "location": "Shaab Claude",
+  "depth": "20m",
+  "difficulty": "Intermediate",
+  "description": "Nicht weit von Shaab Sheer entfernt finden wir Shaab Claude. Ein kleines rundes Riff das an seiner südwestlichen Seite einen kleinen lang gezogenen Korallenblock aufweisst. Kurios ist an Shaab Claude die Korallengeröllhalde, im Gegensatz zu anders lautenden Meinungen ist diese eine Laune der Natur. Doch auch an lebenden Korallen und Fischen gibt es an diesen Riff keinen Mangel. An der südlichen Spitze befinden sich große Gorgonien die eines der vielen Highlights dieses Riffes darstellen.",
+  "image": "String"
+},
+{
+  "_id": {
+    "$oid": "65afd776259bb699a6bfeffb"
+  },
+  "name": "Cannon Riff Süd",
+  "location": "Cannon Riff",
+  "depth": "20m",
+  "difficulty": "Intermediate",
+  "description": "Ein sehr langes Riff, das sich in Nord Süd Richtung über 1km hinzieht und wir in 90 min erreichen. Vom Hauptriff aus tauchen wir entlang mehreren großen Blöcken in Richtung Süden. Viele Fischschwärme werden Sie hier willkommen heißen und mit ein bisschen Glück kommen auch Delfine  vorbei. Die Chancen sind hier sehr groß!",
+  "image": "String"
+},
+{
+  "_id": {
+    "$oid": "65afd78d259bb699a6bfeffc"
+  },
+  "name": "Cannon Riff Nord",
+  "location": "Cannon Riff",
+  "depth": "14m",
+  "difficulty": "Intermediate",
+  "description": "Von der Oberfläche bis zum Sandgrund in max.14m Tiefe, ist das Riff voller Leben. Ein optimaler Platz um gemütliche Tauchgänge zu machen, da viel Strömung hier nicht zu erwarten ist. Hier heißt es „Augen auf!“ denn viele verschiedene Arten Nacktschnecken können gefunden werden und auch der Red Sea Walkman ist hier anzutreffen.",
+  "image": "String"
+},
+{
+  "_id": {
+    "$oid": "65afd7af259bb699a6bfeffd"
+  },
+  "name": "Shaab Hamdallah",
+  "location": "Shaab Hamdallah",
+  "depth": "20m",
+  "difficulty": "Intermediate",
+  "description": "Das südlichste Riff welches wir von MenaDive aus anfahren, in 90min sind wir da. Aus einer Tiefe von 18-20m wachsen Korallentürme bis an die Oberfläche. Einige Blöcke, die nicht bis zur Oberfläche gewachsen sind, ergeben eine bizarre Unterwasserlandschaft. Leider ist der Tauchplatz durch seine exponierte Lage nur sehr selten anzufahren.",
+  "image": "String"
+},
+{
+  "_id": {
+    "$oid": "65afd7ba259bb699a6bfeffe"
+  },
+  "name": "Wracktauchen: Salem Express",
+  "location": "Wracktauchen: Salem Express",
+  "depth": "30m",
+  "difficulty": "Intermediate",
+  "description": "Die Salem Express war ein ägyptisches Fährschiff mit einer Länge von 115 Metern und 18 m Breite. (Baujahr 1966). In der Nacht des 16. Dezember 1991 lief die Salem auf dem Weg in die ägyptische Hafenstadt Safaga während eines Unwetters auf ein Riff auf und schlug Leck. Das Schiff verfügte über keine Schotten und sank deshalb in wenigen Minuten. Die Passagiere, größtenteils Pilger auf der Rückreise von Mekka, wurden im Schlaf überrascht. Die Salem liegt heute etwa 1,5 Bootsstunden von MenaDive entfernt in einer Tiefe zwischen 11 und 30 Metern auf der Steuerbordseite. Das faszinierende Wrack – langsam von der Natur zurückerobert – ist mittlerweile von kleinen Korallen bewuchert.",
+  "image": "String"
+},
+{
+  "_id": {
+    "$oid": "65afd7c2259bb699a6bfefff"
+  },
+  "name": "Wracktauchen: Al Kahfan",
+  "location": "Wracktauchen: Al Kahfan",
+  "depth": "22m",
+  "difficulty": "Intermediate",
+  "description": "Die Al Kahfan sollte in den Sudan überführt werden, auf den Weg dorthin ist sie aus ungeklärten Gründen in Höhe von Hurghada in Brand geraten. Löschversuche blieben ohne Erfolg und das Schiff wurde aufgegeben. Noch immer in Brand trieb sie dann nach Safaga und blieb im Norden von Shaab Sheer Ost am Riff liegen. In weiterer Folge lief sie mit Wasser voll und kippte Kopfüber ab. Jetzt liegt sie auf einem schmalen Plateau in max. 22m Tiefe und ist mit dem Schlauchboot von Shaab Sheer Ost aus leicht zu erreichen.",
+  "image": "String"
+}]

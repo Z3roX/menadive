@@ -1,0 +1,10 @@
+# Build stage
+FROM node:16-alpine
+RUN mkdir -p /menadivef
+WORKDIR /menadivef
+COPY frontend/package*.json ./
+RUN npm install
+COPY frontend/ .
+EXPOSE 3000
+CMD ["npm", "start"]
+

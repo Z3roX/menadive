@@ -1,0 +1,31 @@
+version: '3.8'
+services:
+  backend:
+    build:
+      context: .
+      dockerfile: ./backend/Dockerfile.backend
+    ports:
+      - "3001:3001"
+    volumes:
+      - ./backend:/backend
+    environment:
+      - NODE_ENV=development
+    depends_on:
+      - mongodb
+
+  frontend:
+    build:
+      context: .
+      dockerfile: ./frontend/Dockerfile.frontend
+    ports:
+      - "3000:3000"
+
+  mongodb:
+    image: mongo:latest
+    ports:
+      - "27018:27017"
+    volumes:
+      - mongodb-data:/data/db
+
+volumes:
+  mongodb-data:
